@@ -105,3 +105,42 @@ body{
     background-color: white;
     border-radius: 20px;
 }
+*antigo
+.Cabecario{
+    font-size: 15px;
+    display: flex;
+    font-weight: bold;
+}
+.Buttons1{
+ display: inline-flex;
+}
+#SubtitleTable{
+    text-align: center;
+}
+.Table{
+  display: inline-flex;
+  word-spacing:100px;  
+}
+.TextTable{
+    display: inline-flex;
+    word-spacing: 30px;
+    ;
+}
+
+.Center{
+    display:block;
+    ;
+}
+.Button2{
+    display:flex;
+}
+.Button3{
+    display:inline-flex;
+}
+.Amarilo{
+    background-color:#ffd700;
+}
+.ButtonInput,.ButtonInput2{
+    display: flex;
+    align-items: center;
+}
