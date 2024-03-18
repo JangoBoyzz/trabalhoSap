@@ -1,0 +1,107 @@
+body{
+    background-color:#d7d7d7;
+}
+#a1{
+    display: flex;
+}
+#cabecalho{
+    background-color: rgb(164, 190, 238);
+    display: flex;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.escrita{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(16, 0, 165);
+}
+#botao{
+    background-color: rgb(16, 0, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    text-align: center;
+    width: 130px;
+    border-radius: 50px;
+    color: white;
+}
+.botao{
+    background-color: rgb(16, 0, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 500px;
+    border-radius: 50px;
+    color: white;
+}
+#cabecalho2{
+    background-color: rgb(164, 190, 238);
+    justify-content: space-around;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 900;
+}
+#escrita1{
+    display:flex;
+}
+.botao2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    text-align: center;
+    margin-right: 500px;
+    color:  rgb(16, 0, 165);
+}
+#botao2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    text-align: center;
+    color:  rgb(16, 0, 165);
+}
+#escrita2{
+   display: flex;
+}
+.botao3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    text-align: center;
+    margin-left: 150;
+    color:  rgb(16, 0, 165);
+}
+.botao30{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    text-align: center;
+    margin-left: 100;
+    color:  rgb(16, 0, 165);
+}
+#a2{
+    display: flex;
+}
+#escrita3{
+    display: flex;
+}
+#cabecalho21{
+        background-color: rgb(164, 190, 238);
+        display: flex;
+        justify-content: space-around;
+        border-radius: 20px;
+        padding: 10px;
+        margin: 10px;
+}
+.botao4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    text-align: center;
+    color:  rgb(16, 0, 165);
+}
+#botao4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    text-align: center;
+    margin-right: 600;
+    color:  rgb(16, 0, 165);
+}
+.venda{
+    background-color: white;
+    border-radius: 20px;
+}
