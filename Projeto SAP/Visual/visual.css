@@ -1,0 +1,39 @@
+    .Cabecario{
+        background-color:gray;
+        font-size: 15px;
+        display: flex;
+        font-weight: bold;
+    }
+    .Buttons1{
+     background-color:gray;
+     display: inline-flex;
+ }
+    #ButtonSpecial{
+        display: flex;
+        align-items:self-end;
+        background-color: gray;
+
+}
+
+    #SubtitleTable{
+        text-align: center;
+    }
+    .Table{
+      display: inline-flex;
+      word-spacing:100px;  
+    }
+    .TextTable{
+        display: inline-flex;
+        word-spacing: 30px;
+        ;
+}
+
+    .Center{
+        display: flex;
+}
+    .Button2{
+        display:flex;
+    }
+    .Button3{
+        display:inline-flex;
+    }
